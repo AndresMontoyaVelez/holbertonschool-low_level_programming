@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
- *	 main - Entry point
+ *	main - How to puts a text without printf
  *
- *	 Return: Always 0 (Success)
+ *	Return: Always 0 (Success)
  *
  */
 int main(void)
