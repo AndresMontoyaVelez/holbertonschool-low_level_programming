@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/*
- *	main - How to puts a text without printf
- *	puts - similar of printf
+/**
+ *	main - Entry point
+ *	putss - command to print a text
  *	Return: Always 0 (Success)
  *
  */
