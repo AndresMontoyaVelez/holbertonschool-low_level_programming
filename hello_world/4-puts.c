@@ -2,7 +2,7 @@
 
 /*
  *	main - How to puts a text without printf
- *
+ *	puts - similar of printf
  *	Return: Always 0 (Success)
  *
  */
