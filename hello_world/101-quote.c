@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 /**
  * main - Entry point
+ * write - print text
  * Return: Always 1 (Success)
  */
 
