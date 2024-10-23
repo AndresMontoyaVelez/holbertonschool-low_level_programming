@@ -1,0 +1,1 @@
+sentences of variables
