@@ -3,10 +3,10 @@
 #include <time.h>
 
 /**
- *  * main - print the alphabet from a to z
- *   *
- *    * Return: Always 0 (Success)
- *     */
+ *	main - print the alphabet from a to z
+ *
+ *	Return: Always 0 (Success)
+ */
 
 int main(void)
 {
