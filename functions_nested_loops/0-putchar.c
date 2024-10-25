@@ -1,12 +1,12 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- *main - Entry point
- *
+ *	void - Entry point
+ *	char - character
  *	Return: Always 0
  */
 
-int _putchar(char c)
+int main(void)
 
 {
 	_putchar('_');
